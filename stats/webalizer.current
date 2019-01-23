@@ -1,0 +1,1126 @@
+# Webalizer V2.21-02 Incremental Data - 04/29/2018 23:46:42
+2018 4 29 23 46 42
+14423 10425 3 219 144 137 613235698 2585 421 0
+1 2 330 1 29
+88 24 670455 1 16 9
+417 338 15227285 1 39 10
+864 540 21591241 1 213 19
+1051 740 38411996 1 251 21
+856 634 28815226 1 133 20
+698 492 31798644 1 161 18
+281 168 10660862 1 51 20
+384 183 8211565 1 90 16
+489 357 22160893 1 89 18
+620 499 22190974 1 86 15
+555 365 26673822 1 100 18
+378 221 21602931 1 58 17
+777 604 54998641 1 75 13
+177 103 9289669 1 31 11
+145 70 11120317 1 57 14
+308 226 15976610 1 46 15
+477 363 21744045 1 84 15
+666 452 24193350 1 158 12
+195 125 9339179 1 39 10
+422 286 28647869 1 57 15
+407 173 9753284 1 147 10
+427 278 20666258 1 79 22
+407 340 14219986 1 69 15
+436 354 22628613 1 84 17
+881 801 36031392 1 118 7
+692 613 27632619 1 64 13
+805 679 42103367 3 88 12
+210 140 7827400 1 39 11
+310 257 9047205 1 63 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+309 118 7734346 72
+249 129 8309223 57
+196 65 8251315 50
+138 29 3777058 48
+218 80 16121863 51
+195 88 7555817 61
+224 104 5315697 52
+358 180 15766604 95
+559 416 26439936 91
+1448 1179 58953471 170
+1239 1037 54113883 135
+1086 803 42810465 149
+476 312 13143383 138
+1209 996 62578226 331
+1599 1371 80914232 256
+1073 883 42259439 170
+1062 890 33752406 90
+348 191 13284603 78
+471 254 29625639 130
+362 247 14606387 81
+534 369 31594810 86
+174 77 10960156 46
+541 383 17417967 88
+355 224 7948772 60
+0
+0
+0
+10425
+0
+0
+0
+0
+0
+119
+0
+1619
+0
+22
+98
+0
+16
+2
+0
+0
+0
+34
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2088
+0
+0
+0
+0
+0
+# -urls- 
+/assets/gentelella-master/vendors/font-awesome/fonts/fontawesome-webfont.woff
+0 9 0 753079 0 0
+/doc_file/banner/IMG-20171031-WA0020s1.jpg
+1 1 0 60958 0 0
+/doc_file/banner/20170621_075643-01A1.jpg
+1 110 0 18719530 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/imagetools/plugin.min.js
+0 5 0 68310 0 0
+/assets/gentelella-master/vendors/fastclick/lib/fastclick.js
+0 9 0 74754 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/visualchars/plugin.min.js
+0 5 0 20735 0 0
+/doc_file/banner/lapan-kip-peringkat-2.jpg
+1 108 0 6778564 0 0
+/
+0 1645 0 19680573 375 386
+/assets/royalslider/royalslider.css
+0 193 0 574068 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/codesample/plugin.min.js
+0 5 0 40200 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/autolink/plugin.min.js
+0 5 0 10375 0 0
+/assets/css/datatables.css
+0 2 0 3788 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/print/plugin.min.js
+0 5 0 6500 0 0
+/assets/gentelella-master/vendors/datatables.net-keytable/js/dataTables.keyTable.min.js
+0 7 0 24220 0 0
+/assets/gentelella-master/vendors/switchery/dist/switchery.min.js
+0 9 0 62640 0 0
+/assets/js/jquery.unveilEffects.js
+0 178 0 493511 0 0
+/assets/gentelella-master/vendors/flot.curvedlines/curvedLines.js
+0 9 0 56565 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/searchreplace/plugin.min.js
+0 5 0 18890 0 0
+/assets/gentelella-master/vendors/datatables.net-scroller/js/dataTables.scroller.min.js
+0 7 0 30807 0 0
+/assets/gentelella-master/vendors/nprogress/nprogress.css
+0 9 0 11958 0 0
+/assets/css/jetmenu.css
+0 202 0 789149 0 0
+/doc_file/ikm/SKM_2015.pdf
+0 3 0 2884676 0 0
+/assets/css/stepwizard.css
+0 194 0 354206 0 0
+/assets/gentelella-master/vendors/jquery/dist/jquery.min.js
+0 13 0 417280 0 0
+/assets/dist/summernote.css
+0 7 0 24594 0 0
+/assets/js/jetmenu.js
+0 4 0 7072 0 0
+/doc_file/quickwin/Kepka_LAPAN_Nomor_140_Tahun_2017_Tentang_Quick_Wins.pdf
+0 21 0 4095173 0 0
+/assets/gentelella-master/vendors/jqvmap/dist/jquery.vmap.js
+0 9 0 75330 0 0
+/doc_file/capaian/Peningkatan Kualitas Pelayanan Publik/Capaian_Peningkatan_Kualitas_Layanan_Publik.pdf
+0 2 0 2054792 0 0
+/assets/gentelella-master/vendors/jqvmap/dist/maps/jquery.vmap.world.js
+0 9 0 217674 0 0
+/assets/gentelella-master/vendors/font-awesome/fonts/fontawesome-webfont.woff2
+0 133 0 9610246 0 0
+/assets/gentelella-master/vendors/select2/dist/js/select2.full.min.js
+0 9 0 197352 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/contextmenu/plugin.min.js
+0 5 0 17195 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/media/plugin.min.js
+0 5 0 33020 0 0
+/assets/gentelella-master/vendors/datatables.net-bs/css/dataTables.bootstrap.min.css
+0 7 0 11590 0 0
+/assets/gentelella-master/vendors/jszip/dist/jszip.min.js
+0 7 0 176715 0 0
+/assets/css/Bootstrap/buttons.dataTables.min.css
+0 2 0 5022 0 0
+/assets/gentelella-master/vendors/Flot/jquery.flot.stack.js
+0 9 0 24327 0 0
+/doc_file/berita/biak160.jpg
+1 1 39147168 157154 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/directionality/plugin.min.js
+0 5 0 7570 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/visualblocks/plugin.min.js
+0 5 0 8160 0 0
+/doc_file/buletin/dokumen/Buletin_RB_Vol_1_No_4.pdf
+0 55 0 32361005 0 0
+/assets/js/dataTables.buttons.min.js
+0 2 0 13192 0 0
+/assets/gentelella-master/vendors/font-awesome/css/font-awesome.min.css
+0 192 0 1873690 0 0
+/assets/gentelella-master/vendors/font-awesome/fonts/fontawesome-webfont.svg
+0 14 0 5562508 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/paste/plugin.min.js
+0 5 88159053543913774 43750 0 0
+/assets/js/vfs_fonts.js
+0 2 3347427285206448439 987104 0 0
+/assets/css/image_zoom.css
+0 70 3903834937394870066 185841 0 0
+/assets/royalslider/rs-default-inverted.css
+0 202 431261381733 829325 0 0
+/assets/gentelella-master/vendors/starrr/dist/starrr.css
+0 9 7171939 7965 0 0
+/doc_file/buletin/dokumen/Buletin_RB_Vol_1_No_3.pdf
+0 28 504426820709 31391722 0 0
+/assets/gentelella-master/vendors/datatables.net-responsive-bs/js/responsive.bootstrap.js
+0 7 0 10458 0 0
+/assets/gentelella-master/build/css/custom.min.css
+0 9 0 137211 0 0
+/assets/gentelella-master/vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css
+0 7 0 8757 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/insertdatetime/plugin.min.js
+0 5 0 9875 0 0
+/assets/fonts/glyphicons-halflings-regular.svg
+0 1 0 115914 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/wordcount/plugin.min.js
+0 5 0 29560 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/nonbreaking/plugin.min.js
+0 5 0 7430 0 0
+/assets/css/hover_pack.css
+0 200 0 1056530 0 0
+/doc_file/banner/ANRI22.jpg
+1 108 0 8266509 0 0
+/assets/js/buttons.html5.min.js
+0 2 0 13962 0 0
+/doc_file/ikm/REKAPITULASI_SKM_TW_III_2017.pdf
+0 3 0 1064232 0 0
+/doc_file/berita/SMKI2.jpg
+1 1 0 201347 0 0
+/assets/js/jquery.simple-text-rotator.js
+0 175 0 504574 0 0
+/assets/js/datatables.js
+0 2 0 229158 0 0
+/assets/gentelella-master/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js
+0 9 0 24624 0 0
+/assets/gentelella-master/vendors/pdfmake/build/pdfmake.min.js
+0 7 0 740404 0 0
+/assets/gentelella-master/vendors/jqvmap/examples/js/jquery.vmap.sampledata.js
+0 9 0 16191 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/pagebreak/plugin.min.js
+0 5 0 8800 0 0
+/doc_file/berita/SMKI.jpg
+1 1 0 105787 0 0
+/doc_file/buletin/dokumen/Buletin_RB_Vol_2_No_11.pdf
+0 53 0 22863397 0 0
+/doc_file/berita/egov_malang5.jpg
+1 105 0 12341671 0 0
+/assets/gentelella-master/vendors/Flot/jquery.flot.time.js
+0 9 0 39654 0 0
+/assets/gentelella-master/vendors/tinymce/js/skins/lightgray/skin.min.css
+0 5 0 43245 0 0
+/assets/style.css
+0 196 0 3427196 0 0
+/assets/gentelella-master/vendors/google-code-prettify/src/prettify.js
+0 9 0 184932 0 0
+/assets/gentelella-master/vendors/autosize/dist/autosize.min.js
+0 9 0 17487 0 0
+/assets/gentelella-master/vendors/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js
+0 7 0 21168 0 0
+/doc_file/berita/SMKI1.jpg
+1 2 0 205466 0 0
+/assets/css/colors.css
+0 196 0 731117 0 0
+/doc_file/banner/PPID.jpg
+1 2 0 393667 0 0
+/assets/gentelella-master/vendors/Flot/jquery.flot.resize.js
+0 9 0 19152 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/lists/plugin.min.js
+0 5 0 27650 0 0
+/assets/js/ddlevelsmenu.js
+0 4 0 31704 0 0
+/assets/gentelella-master/vendors/datatables.net-responsive/js/dataTables.responsive.min.js
+0 7 0 32753 0 0
+/doc_file/pas_foto/edt_ZCup2XfehXSE.jpg
+1 4 0 379480 0 0
+/doc_file/ikm/REKAPITULASI_SKM_TW_II_2017.pdf
+0 2 0 1006702 0 0
+/assets/gentelella-master/vendors/bootstrap-imageupload/js/plugins/purify.min.js
+0 2 0 10440 0 0
+/assets/gentelella-master/vendors/flot-spline/js/jquery.flot.spline.min.js
+0 9 0 14922 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/codesample/css/prism.css
+0 6 0 9576 0 0
+/assets/gentelella-master/vendors/tinymce/js/tinymce.min.js
+0 8 0 1252704 0 0
+/assets/gentelella-master/vendors/jquery.tagsinput/src/jquery.tagsinput.js
+0 9 0 38358 0 0
+/assets/bootstrap.css
+0 8 0 350924 0 0
+/assets/gentelella-master/vendors/datatables.net-buttons-bs/js/buttons.bootstrap.min.js
+0 8 0 9488 0 0
+/doc_file/banner/BMN_Award.JPG
+1 111 0 21014893 0 0
+/license.txt
+0 1 0 6954 0 0
+/assets/js/jquery.js
+0 206 0 7619774 0 0
+/assets/js/application.js
+0 179 0 500016 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/table/plugin.min.js
+0 5 0 79170 0 0
+/assets/gentelella-master/vendors/jqvmap/dist/jqvmap.min.css
+0 10 0 10482 0 0
+/assets/gentelella-master/vendors/Flot/jquery.flot.js
+0 9 0 250857 0 0
+/assets/gentelella-master/vendors/bootstrap-imageupload/css/fileinput.min.css
+0 9 0 27477 0 0
+/assets/gentelella-master/vendors/tinymce/js/skins/lightgray/fonts/tinymce.woff
+0 5 0 90788 0 0
+/doc_file/berita/TEKSAT_PELANTIKAN.jpg
+1 108 0 6156879 0 0
+/assets/gentelella-master/vendors/Flot/jquery.flot.pie.js
+0 9 0 70248 0 0
+/assets/js/jquery.jigowatt.js
+0 184 0 355970 0 0
+/doc_file/berita/IMG-20171031-WA0019-02s9.jpg
+1 106 0 16924300 0 0
+/assets/js/bootstrap-datetimepicker.min.js
+0 9 0 94788 0 0
+/assets/fonts/glyphicons-halflings-regular.woff
+0 88 0 2136908 0 0
+/assets/js/bootstrap.js
+0 177 0 3246451 0 0
+/doc_file/buletin/dokumen/Buletin_RB_Vol_2_No_1.pdf
+0 24 0 15752378 0 0
+/assets/gentelella-master/build/js/custom.min.js
+0 9 0 205254 0 0
+/assets/gentelella-master/vendors/datatables.net/js/jquery.dataTables.min.js
+0 7 0 201215 0 0
+/assets/gentelella-master/vendors/nprogress/nprogress.js
+0 9 0 38520 0 0
+/assets/gentelella-master/vendors/DateJS/build/date.js
+0 9 0 307296 0 0
+/assets/gentelella-master/vendors/font-awesome/fonts/fontawesome-webfont.eot
+0 5 0 410712 0 0
+/assets/js/buttons.print.min.js
+0 2 0 3376 0 0
+/assets/gentelella-master/vendors/bootstrap/dist/js/bootstrap.min.js
+0 10 0 111854 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/toc/plugin.min.js
+0 5 0 11990 0 0
+/doc_file/banner/IMG-20171031-WA0020s8.jpg
+1 110 0 6925541 0 0
+/assets/js/buttons.colVis.min.js
+0 2 0 3382 0 0
+/assets/gentelella-master/vendors/flot.orderbars/js/jquery.flot.orderBars.js
+0 10 0 27450 0 0
+/assets/gentelella-master/vendors/datatables.net-buttons/js/buttons.html5.min.js
+0 7 0 46046 0 0
+/assets/gentelella-master/vendors/bootstrap-imageupload/js/fileinput.min.js
+0 9 0 235728 0 0
+/assets/gentelella-master/vendors/datatables.net-buttons/js/dataTables.buttons.min.js
+0 7 0 41055 0 0
+/assets/gentelella-master/vendors/moment/min/moment.min.js
+0 9 0 143793 0 0
+/doc_file/ikm/SKM_20161.pdf
+0 2 0 4289453 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/template/plugin.min.js
+0 5 0 14885 0 0
+/doc_file/ikm/Indeks_Kepuasan_Masyarakat_di_LAPAN_tahun_2014.pdf
+0 5 0 462975 0 0
+/assets/gentelella-master/vendors/iCheck/skins/flat/green.css
+0 9 0 10839 0 0
+/assets/gentelella-master/vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css
+0 7 0 11368 0 0
+/assets/gentelella-master/vendors/pdfmake/build/vfs_fonts.js
+0 7 0 2082682 0 0
+/assets/gentelella-master/vendors/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+0 10 0 186740 0 0
+/assets/js/stepwizard.js
+0 175 0 346954 0 0
+/assets/fonts/glyphicons-halflings-regular.eot
+0 5 0 128317 0 0
+/assets/gentelella-master/vendors/Chart.js/dist/Chart.min.js
+0 180 0 7638218 0 0
+/assets/gentelella-master/vendors/tinymce/js/themes/modern/theme.min.js
+0 5 0 29705 0 0
+/assets/gentelella-master/vendors/devbridge-autocomplete/dist/jquery.autocomplete.min.js
+0 9 0 46467 0 0
+/assets/gentelella-master/vendors/font-awesome/fonts/fontawesome-webfont.ttf
+0 30 0 4665477 0 0
+/assets/gentelella-master/vendors/gauge.js/dist/gauge.min.js
+0 9 0 47493 0 0
+/doc_file/banner/IMG-20160421-WA0005CCA.jpg
+1 2 0 162786 0 0
+/doc_file/buletin/dokumen/Buletin_RB_Vol_1_No_1_Okt.pdf
+0 38 0 47316387 0 0
+/doc_file/ikm/Indeks_Kepuasan_Masyarakat_di_LAPAN_tahun_2013.pdf
+0 7 0 575330 0 0
+/doc_file/ikm/SKM_Lapan_Upload.pdf
+0 1 0 3561317 0 0
+/doc_file/buletin/cover/cover_vol_2_no_1_2018.jpg
+1 12 0 3706128 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/preview/plugin.min.js
+0 5 0 9930 0 0
+/doc_file/buletin/cover/cover_buletin_rb.jpg
+1 54 0 15555925 0 0
+/doc_file/buletin/cover/cover_vol_2_resize_5003.jpg
+1 50 0 21596700 0 0
+/assets/img/header_rb.png
+1 171 0 35002276 0 0
+/doc_file/berita/tekbang1.jpg
+1 108 0 13994200 0 0
+/doc_file/berita/TEKSAT_cOFFE_MORNING.jpg
+1 1 39146912 104842 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/advlist/plugin.min.js
+0 5 0 10100 0 0
+/assets/gentelella-master/vendors/bootstrap-daterangepicker/daterangepicker.css
+0 9 0 21288 0 0
+/assets/js/buttons.flash.min.js
+0 2 0 14832 0 0
+/assets/fonts/glyphicons-halflings-regular.ttf
+0 7 0 352240 0 0
+/assets/gentelella-master/vendors/parsleyjs/dist/parsley.min.js.map
+0 8 0 496806 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/help/plugin.min.js
+0 5 0 26080 0 0
+/assets/css/style2.css
+0 193 0 589936 0 0
+/assets/gentelella-master/vendors/starrr/dist/starrr.js
+0 9 0 14274 0 0
+/assets/css/login.css
+0 11 0 30059 0 0
+/doc_file/berita/IMG_1113_abc.jpg
+1 106 0 17919326 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/colorpicker/plugin.min.js
+0 5 0 8630 0 0
+/assets/gentelella-master/vendors/switchery/dist/switchery.min.css
+0 9 0 9567 0 0
+/assets/dist/summernote.js
+0 9 0 393741 0 0
+/assets/css/flexslider.css
+0 201 0 781976 0 0
+/assets/gentelella-master/vendors/bootstrap/dist/css/bootstrap.min.css
+0 10 0 203440 0 0
+/assets/gentelella-master/vendors/select2/dist/css/select2.min.css
+0 9 0 24489 0 0
+/assets/gentelella-master/vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css
+0 7 0 6069 0 0
+/doc_file/pas_foto/adm_k3vrnAILAdGU.jpg
+1 1 38862528 31026 0 0
+/assets/gentelella-master/vendors/datatables.net-buttons/js/buttons.print.min.js
+0 7 0 10997 0 0
+/assets/js/jquery.fitvids.js
+0 181 0 515227 0 0
+/assets/gentelella-master/vendors/parsleyjs/dist/parsley.min.js
+0 177 0 2605641 0 0
+/doc_file/buletin/dokumen/Buletin_RB_Vol_2.pdf
+0 18 0 24372457 0 0
+/assets/owl.carousel.css
+0 195 0 561979 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/image/plugin.min.js
+0 5 0 20790 0 0
+/assets/css/owl.carousel.css
+0 180 0 526034 0 0
+/assets/gentelella-master/vendors/bootstrap-daterangepicker/daterangepicker.js
+0 9 0 113322 0 0
+/assets/gentelella-master/vendors/datatables.net-bs/js/dataTables.bootstrap.min.js
+0 7 0 12369 0 0
+/assets/js/jquery.imagebox.js
+0 173 0 625094 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/textpattern/plugin.min.js
+0 5 0 13395 0 0
+/assets/js/ajax.js
+0 7 0 8589 0 0
+/assets/gentelella-master/vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css
+0 7 0 6517 0 0
+/assets/gentelella-master/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css
+0 10 0 15312 0 0
+/assets/css/prettify.css
+0 188 0 353609 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/textcolor/plugin.min.js
+0 5 0 14465 0 0
+/assets/gentelella-master/vendors/tinymce/js/skins/lightgray/content.min.css
+0 5 0 9525 0 0
+/doc_file/berita/BMN_Award.JPG
+1 112 0 21041265 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/emoticons/plugin.min.js
+0 5 0 8315 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/link/plugin.min.js
+0 5 0 24390 0 0
+/assets/gentelella-master/vendors/google-code-prettify/bin/prettify.min.css
+0 9 0 9345 0 0
+/assets/gentelella-master/vendors/bootstrap-imageupload/js/plugins/sortable.min.js
+0 2 0 13436 0 0
+/doc_file/ikm/REKAPITULASI_SKM_TW_I_2017_(1).pdf
+0 4 0 1429770 0 0
+/assets/css/ekko-lightbox.css
+0 67 0 284071 0 0
+/assets/js/ekko-lightbox.js
+0 175 0 1482169 0 0
+/doc_file/pas_foto/adm_L2RZh83q3OKZ.png
+1 3 0 40548 0 0
+/doc_file/berita/TEKSAT_IMAN.jpg
+1 108 0 6946072 0 0
+/assets/gentelella-master/vendors/iCheck/icheck.min.js
+0 9 0 26550 0 0
+/assets/js/prettify.js
+0 176 0 1368877 0 0
+/assets/css/bootstrap.css
+0 197 0 12656461 0 0
+/doc_file/pas_foto/edt_gosG1V4gcFCZ.png
+1 2 0 27032 0 0
+/doc_file/buletin/cover/cover_vol_2_no_1_20181.jpg
+1 23 0 6812754 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/anchor/plugin.min.js
+0 5 0 8960 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/fullscreen/plugin.min.js
+0 5 0 9240 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/save/plugin.min.js
+0 5 0 8450 0 0
+/assets/js/jszip.min.js
+0 2 0 61486 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/hr/plugin.min.js
+0 5 0 6540 0 0
+/assets/css/prettyPhoto.css
+0 201 0 1112161 0 0
+/assets/gentelella-master/vendors/skycons/skycons.js
+0 9 0 47649 0 0
+/assets/css/modal.css
+0 195 0 522146 0 0
+/doc_file/buletin/cover/cover_vol_4.jpg
+1 50 0 16500861 0 0
+/assets/js/pdfmake.min.js
+0 2 0 871992 0 0
+/assets/img/LAPAN_logo.png
+1 133 0 10434409 0 0
+/assets/gentelella-master/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js
+0 9 0 15345 0 0
+/doc_file/berita/biak_1.jpg
+1 110 0 6077456 0 0
+/assets/gentelella-master/vendors/tinymce/js/plugins/charmap/plugin.min.js
+0 5 0 21220 0 0
+/assets/css/bootstrap-datetimepicker.min.css
+0 9 0 21084 0 0
+/assets/gentelella-master/vendors/jquery.hotkeys/jquery.hotkeys.js
+0 9 0 23733 0 0
+/doc_file/buletin/cover/cover_vol_3.jpg
+1 50 0 18378299 0 0
+/assets/gentelella-master/vendors/datatables.net-buttons/js/buttons.flash.min.js
+0 7 0 46949 0 0
+# End Of Table - urls
+# -sites- (monthly)
+10.14.1.1
+0 64 62 6037494 1 1524821296
+/
+10.16.130.2
+0 21 21 1694207 0 0
+-
+103.16.223.13
+0 14338 10461 605503997 420 1525045602
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+103.16.223.13
+0 310 257 9047205 12 1525045602
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://rb.lapan.go.id/assets/gentelella-master/vendors/bootstrap-imageupload/css/fileinput.min.css
+1 18
+http://pussainsa.lapan.go.id/index.php/home
+0 1
+https://rb.lapan.go.id/index.php/admin/penataan-dan-penguatan-organisasi-management
+1 1
+http://pussainsa.lapan.go.id/
+0 6
+https://fr.wikipedia.org/wiki/Agrégation_de_l'enseignement_supérieur_français
+0 1
+https://rb.lapan.go.id/index.php/editor/ipk-management
+1 246
+- (Direct Request)
+0 5202
+https://rb.lapan.go.id/index.php/menu/penataan_sistem_manajemen_sdm
+1 2
+http://rb.lapan.go.id/index.php/menu/penguatan_pengawasan
+1 2
+https://images.theconversation.com/files/165535/original/image-20170418-32700-sgx9qd.JPG
+0 1
+http://pussainsa.lapan.go.id/index.php/subblog/pages/2018/21/SKM-Layanan-Kunjungan
+0 1
+https://rb.lapan.go.id/index.php/menu/roadmap
+1 39
+https://images.theconversation.com/files/153661/original/image-20170120-5234-g8kp3k.JPG
+0 1
+http://rb.lapan.go.id/doc_file/buletin/dokumen/Buletin_RB_Vol_1_No_3.pdf
+1 1
+https://images.theconversation.com/files/184341/original/file-20170901-27238-199yjuw.jpg
+0 1
+https://rb.lapan.go.id/doc_file/buletin/dokumen/Buletin_RB_Vol_1_No_1_Okt.pdf
+1 2
+https://rb.lapan.go.id/index.php/menu/penataan_tatalaksana
+1 18
+http://m.facebook.com
+0 4
+https://rb.lapan.go.id/index.php/menu/ikm
+1 17
+https://www.youtube.com/embed/5oKWDSMEcBk
+0 1
+http://rb.lapan.go.id/index.php/menu/buletin
+1 32
+https://rb.lapan.go.id/index.php/login/index
+1 15
+https://theconversation.com/profiles/trevor-duke-46572
+0 1
+https://www.thetimes.co.uk/article/wpp-shares-fall-after-it-advertises-its-troubles-fffdsdp7l
+0 1
+https://counter.theconversation.com/content/88035/count
+0 1
+https://rb.lapan.go.id/assets/gentelella-master/vendors/tinymce/js/skins/lightgray/skin.min.css
+1 5
+https://rb.lapan.go.id/index.php/admin
+1 124
+https://rb.lapan.go.id/index.php/editor/roadmap-management
+1 2
+http://satulayanan.lapan.go.id/
+0 2
+https://rb.lapan.go.id/index.php/menu/penguatan_akuntabilitas_kinerja
+1 63
+http://satulayanan.lapan.go.id/detail/38
+0 10
+http://www.google.com/search
+0 1
+https://rb.lapan.go.id/index.php/menu/ipk
+1 530
+https://rb.lapan.go.id/doc_file/quickwin/Kepka_LAPAN_Nomor_140_Tahun_2017_Tentang_Quick_Wins.pdf
+1 1
+https://rb.lapan.go.id/index.php/berita/view/reformasi-manajemen-lapan-berbasis-e-goverment
+1 54
+https://rb.lapan.go.id/index.php/menu/peningkatan_kualitas_pelayanan_publik
+1 43
+https://rb.lapan.go.id/doc_file/buletin/dokumen/Buletin_RB_Vol_2_No_1.pdf
+1 3
+https://rb.lapan.go.id/index.php/menu/manajemen_perubahan
+1 39
+https://images.theconversation.com/files/213409/original/file-20180405-189816-mubgxb.jpg
+0 1
+http://pakuan.amarishotel.com/login
+0 3
+http://www.dailymail.co.uk/news/article-5547303/Daily-Mail-petition-blue-passports-Britain-reaches-150k.html
+0 1
+https://www.telegraph.co.uk/news/2018/01/29/donald-trump-promises-great-uk-trade-deal-brexit/
+0 1
+https://rb.lapan.go.id/index.php/admin/penataan-peraturan-uu-management
+1 1
+https://www.facebook.com/
+0 2
+https://rb.lapan.go.id/index.php/admin/banner-management
+1 52
+http://pussainsa.sains.lapan.go.id/index.php/subblog/pages/2018/14/Rencana-Aksi-Perjanjian-Kinerja-Tahun-2018
+0 2
+https://twitter.com/CandSC_France
+0 1
+https://theconversation.com/intelligence-artificielle-laventure-commence-tout-juste-77581
+0 1
+https://rb.lapan.go.id/index.php/berita/view/pelantikan-pejabat-fungsional-pegawai-negeri-sipil
+1 45
+https://rb.lapan.go.id/index.php/berita/view/lapan-raih-tiga-penghargaan-dalam-bmn-awards-2017
+1 1
+http://rb.lapan.go.id/index.php/menu/quickwin
+1 2
+https://rb.lapan.go.id/index.php/menu/buletin
+1 1027
+https://rb.lapan.go.id/
+1 4389
+http://rb.lapan.go.id/index.php/menu/penataan_peraturan_uu
+1 30
+https://rb.lapan.go.id/index.php/berita/view/penghargaan-top-it-2017-security-e-goverment
+1 29
+http://time.com/5006971/how-chinas-economy-is-poised-to-win-the-future/
+0 1
+http://rb.lapan.go.id/license.txt
+1 2
+https://rb.lapan.go.id/index.php/admin/news-management
+1 93
+http://theconversation.com/profiles/mary-fisher-393344
+0 2
+https://rb.lapan.go.id/index.php/menu/penataan_peraturan_uu
+1 3
+https://rb.lapan.go.id/doc_file/buletin/cover/cover_vol_4.jpg
+1 1
+https://rb.lapan.go.id/index.php/editor/buletin-management
+1 268
+https://rb.lapan.go.id/lib/template/default/file/ikm/IKM-TW-I-II-III-LAPAN-2016.pdf
+1 2
+https://theconversation.com/des-transformations-du-travail-aux-mutations-du-management-le-paradoxe-du-51-etat-americain-87548
+0 1
+https://rb.lapan.go.id/index.php/berita/view/apel-jumat-pada-balai-lapan-biak
+1 2
+https://rb.lapan.go.id/login
+1 1
+http://ppid.lapan.go.id/indeks-kepuasan-masyarakat
+0 2
+http://localhost/Reformasi Birokrasi LAPAN.html
+0 2
+http://www.lapan.go.id/
+0 4
+https://rb.lapan.go.id/index.php/berita/view/penghargaan-top-it-2017-security-e-gov
+1 43
+https://ore.exeter.ac.uk/repository/handle/10036/4221
+0 1
+https://rb.lapan.go.id/index.php/berita/view/transformasi-keamanan-informasi-keantariksaan
+1 15
+https://www.youtube.com/embed/JCyazKSKCms
+0 1
+https://books.google.com/books
+0 1
+https://rb.lapan.go.id/index.php/admin/ikm-management
+1 50
+https://rb.lapan.go.id/index.php/menu/penataan_dan_penguatan_organisasi
+1 5
+http://rb.lapan.go.id/lib/template/default/file/ikm/IKM-TW-I-II-III-LAPAN-2016.pdf
+1 1
+http://www.pussainsa.lapan.go.id/index.php/subblog/pages/2018/21/SKM-Layanan-Kunjungan
+0 1
+https://rb.lapan.go.id/assets/img/header_rb.png
+1 1
+https://images.theconversation.com/files/193398/original/file-20171106-1061-1h6s7e7.png
+0 1
+http://unctad.org/en/Pages/DIAE/World Investment Report/Annex-Tables.aspx
+0 1
+https://rb.lapan.go.id/doc_file/buletin/dokumen/Buletin_RB_Vol_2_No_11.pdf
+1 5
+https://twitter.com/hashtag/dubitatif
+0 1
+http://rb.lapan.go.id/index.php/menu/visimisi
+1 36
+https://www.google.co.id/
+0 41
+http://www.ipwatchdog.com/2017/12/12/wipo-stats-patent-application-filings-china-lead/id
+0 1
+https://rb.lapan.go.id/index.php/admin/vimi-management
+1 3
+http://pussainsa.lapan.go.id/index.php/subblog/pages/2018/18/SiforenMonev
+0 1
+http://www.efanet.org/resources/library/1469-launch-of-efa-respiratory-allergy-book-at-european-parliament
+0 1
+https://rb.lapan.go.id/doc_file/capaian/Peningkatan Kualitas Pelayanan Publik/Capaian_Peningkatan_Kualitas_Layanan_Publik.pdf
+1 1
+https://www.ecofoot.fr/ligue1-montant-droitstv-marche-1997/
+0 1
+https://theconversation.com/profiles/michael-gillings-125384
+0 1
+http://theconversation.fr/le-passe-culture-revolution-ou-retour-a-lancien-monde-94931
+0 1
+https://rb.lapan.go.id/index.php/admin/penataan-sistem-manajemen-sdm-management
+1 1
+https://theconversation.com/sign_in
+0 4
+http://rb.lapan.go.id/index.php/menu/manajemen_perubahan
+1 56
+http://rb.lapan.go.id/
+1 165
+https://rb.lapan.go.id/assets/gentelella-master/vendors/bootstrap/dist/css/bootstrap.min.css
+1 10
+https://theconversation.com/profiles/sue-boyd-109512
+0 2
+https://www.google.com/
+0 25
+https://rb.lapan.go.id/index.php/editor
+1 164
+https://rb.lapan.go.id/index.php/admin/penguatan-pengawasan-management
+1 1
+https://rb.lapan.go.id/assets/gentelella-master/vendors/font-awesome/css/font-awesome.min.css
+1 144
+https://rb.lapan.go.id/assets/js/jquery.js
+1 3
+https://rb.lapan.go.id/assets/style.css
+1 49
+https://images.theconversation.com/files/158751/original/image-20170228-29929-sx5r1r.jpg
+0 1
+https://www.google.co.id/search
+0 1
+https://rb.lapan.go.id/index.php/login
+1 71
+https://rb.lapan.go.id/index.php/menu/quickwin
+1 38
+https://rb.lapan.go.id/assets/css/bootstrap.css
+1 451
+http://rb.lapan.go.id
+1 1
+https://twitter.com/hashtag/Amérique
+0 1
+https://images.theconversation.com/files/163851/original/image-20170404-5697-bhjunq.jpg
+0 1
+http://rb.lapan.go.id/index.php/menu/ikm
+1 31
+https://theconversation.com/sign_up
+0 3
+https://rb.lapan.go.id/index.php/admin/tujuan-management
+1 81
+http://rb.lapan.go.id/index.php/menu/sasaran
+1 2
+http://www.abb.com/cawp/seitp202/10a8acee1663cef348257031002b8fa6.aspx
+0 1
+https://twitter.com/MzBlack/status/856561840276389888
+0 1
+https://m.facebook.com/
+0 18
+https://rb.lapan.go.id/index.php/admin/penguatan-akuntabilitas-kinerja-management
+1 1
+https://images.theconversation.com/files/202325/original/file-20180117-53302-z4p7so.jpg
+0 1
+http://www.netcraft.com/survey/
+0 1
+https://rb.lapan.go.id/admin
+1 3
+https://rb.lapan.go.id/index.php/berita/view/tujuan-birokrasi-lapan
+1 61
+http://rb.lapan.go.id/robots.txt
+1 5
+http://time.com/3845674/lenovo-ibm/
+0 1
+http://pussainsa.lapan.go.id/index.php/subblog/pages/2018/19/SMART-DJA
+0 1
+https://images.theconversation.com/files/193022/original/file-20171102-26422-y04vzi.png
+0 1
+https://rb.lapan.go.id/index.php/menu/visimisi
+1 7
+https://rb.lapan.go.id/index.php/admin/penataan-tatalaksana-management
+1 1
+http://rb.lapan.go.id/index.php/menu/peningkatan_kualitas_pelayanan_publik
+1 26
+https://www.google.com/url
+0 5
+https://rb.lapan.go.id/doc_file/buletin/dokumen/Buletin_RB_Vol_1_No_3.pdf
+1 1
+https://www.google.com.ni/
+0 1
+https://rb.lapan.go.id/index.php/menu/kebijakan
+1 263
+http://rb.lapan.go.id/modules/index.html
+1 2
+https://www.lapan.go.id/index.php/subblog/download/U09QX3BlbmdhZHVhbi5wZGY
+0 1
+https://images.theconversation.com/files/163945/original/image-20170404-5725-1xwovur.jpg
+0 1
+https://rb.lapan.go.id/-.php
+1 1
+https://rb.lapan.go.id/index.php/menu/sasaran
+1 2
+http://rb.lapan.go.id/index.php/berita/view/transformasi-keamanan-informasi-keantariksaan
+1 4
+http://rb.lapan.go.id/index.php/menu/penataan_dan_penguatan_organisasi
+1 28
+https://www.legifrance.gouv.fr/affichCode.do
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 1349
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 46
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 100
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36 OPR/49.0.2725.47
+0 2
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 6
+Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 4
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 388
+Googlebot-Image/1.0
+0 29
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 1406
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 403
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 55
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 178
+Wget/1.13.4 (linux-gnu)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 220
+Mozilla/5.0 (Linux; Android 7.1.1; SM-J510FN Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Mobile
+0 33
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.3
+0 15
+Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://www.majestic12.co.uk/bot.php?+)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 34
+Go-http-client/1.1
+0 31
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 51
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_35_82) AppleWebKit/532.86.23 (KHTML, like Gecko) Chrome/56.2.7481.2219 Safari/53
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 55
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 357
+Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile S
+0 63
+Mozilla/5.0 (Linux; Android 7.1.1; TA-1032 Build/NMF26O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile S
+0 33
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 90
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 70
+Mozilla 5.0
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 1.1.4322)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-N910H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 42
+Mozilla/5.0 (compatible; SurdotlyBot/1.0; +http://sur.ly/bot.html)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Lenovo YB1-X90F Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 
+0 65
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 50
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile 
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20120716 Firefox/15.0a2
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 5
+AHC/1.0
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:37.1) Gecko/20100101 Firefox/37.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 199
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 20
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 15
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 YaBrowser/17.11.0.2191 Yowser/
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Sa
+0 40
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 50
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 50
+Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/531.44.3 (KHTML, like Gecko) Version/5.0.1 Safari/531.44.3
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201
+0 61
+Apache-HttpClient/4.5.2 (Java/1.8.0_151)
+0 32
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J500G Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile S
+0 102
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.2988.0 Safari/537.36
+0 33
+Mozilla/5.0 (Windows NT 6.1; rv:58.0) Gecko/20100101 Firefox/58.0
+0 66
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C202 [FBAN/FBIOS;FB
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 69
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G955F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile S
+0 1
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 15
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2369
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 57
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-A710F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Sa
+0 41
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 8
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 221
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 8
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-US; Redmi 4A Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 33
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36
+0 48
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 [FBAN/FBIOS;FBA
+0 2
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.307.7 Safari/532.9
+0 1
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 209
+python-requests/2.18.4
+0 30
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Mobile Safari
+0 32
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 5.1; vivo Y21 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Sa
+0 33
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N910H Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 33
+Mozilla/5.0 (Linux; Android 7.0; LG-M400 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Mobile Saf
+0 33
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 2
+Mozilla/5.0 (compatible; oBot/2.3.1; http://filterdb.iss.net/crawler/)
+0 6
+Mozilla/5.0 (Linux; Android 7.0; SM-A720F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Sa
+0 60
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 110
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-N9208 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Sa
+0 33
+Mozilla/5.0 (X11; Linux x86_64; rv:7.0) Gecko/20110606 Firefox/35.0
+0 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 51
+Mozilla/5.0 (compatible; techleadzbot/1.1; +http://techleadz.io)
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 68
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J111F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 C
+0 172
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 104
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 189
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 57
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 16
+Mozilla/5.0 (Linux; U; Android 6.0; en-us; Redmi Note 4X Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chr
+0 39
+Googlebot (gocrawl v0.4)
+0 5
+python-requests/2.2.1 CPython/2.7.6 Linux/4.9.80-c9
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 686
+Mozilla/5.0 (compatible; Gluten Free Crawler/1.0; +http://glutenfreepleasure.com/)
+0 10
+MauiBot (crawler.feedback+wc@gmail.com)
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 48
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.21 Safari/532.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 175
+WhatsApp/2.18.92 A
+0 5
+ltx71 - (http://ltx71.com/)
+0 10
+Mozilla/5.0 (Windows NT 6.1; rv:59.0) Gecko/20100101 Firefox/59.0
+0 202
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/41.0.2272.118 Safari/537.36 (compatib
+0 62
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.2988.0 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 43
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.1
+0 65
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 463
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2020
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+CCBot/2.0 (http://commoncrawl.org/faq/)
+0 147
+Go 1.1 package http
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+0 2
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-N910H Build/MMB29K)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 UBrowser/7.0.69.1021 Safari/5
+0 1
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 111
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 85
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 48
+Mozilla/5.0 (compatible; Google-Test;)
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,99 @@
+
+
+
+.header_box {
+  position :static;
+  border-radius: 10px 10px;
+  height: 15px;
+  line-height: 35px;
+  text-indent: 1em;
+  text-align:left;
+  width: 100%;
+  background: #cccccc;
+  color:#ffffff;
+  top:5px;
+  left:45%;
+  #font-size: 30px;
+  text-decoration:bold;
+}
+.tab_leaf {
+  position :static;
+  border-radius: 8px 8px;
+  height: 15px;
+  line-height: 35px;
+  text-indent: 1em;
+  text-align:left;
+  width: 100%;
+  background: #99ccff;
+  color:#63635F;
+  top:5px;
+  left:45%;
+  #font-size: 30px;
+  text-decoration:bold;
+}
+.tab {
+border-top-left-radius: 10px;
+border-top-right-radius:10px;
+}
+
+.tab a:link{
+	color:#ffffff;
+}
+.tab a:hover{
+	color:#E97730;
+}
+
+.tab a:active{
+	color:#ffffff;
+}
+
+.a-special:hover{
+	color:#E97730;
+}
+.a-special:active{
+	color:#ffffff;
+}
+
+ .row_rb{margin-right:-15px;margin-left:-15px}
+ .row_rb:before,.row_rb:after{display:table;content:" "}
+ .row_rb:after{clear:both}
+ .row_rb:before,.row_rb:after{display:table;content:" "}
+ .row_rb:after{clear:both}
+
+
+.row_rb a:link, .detail a:link{
+	color:#130EA7;
+}
+.row_rb a:visited, .detail a:visited{
+	color:#130EA7;
+}
+.row_rb a:hover, .detail a:hover{
+	color:#E97730;
+}
+
+.row_rb a:active, .detail a:active{
+	color:#130EA7;
+}
+
+ .container_footer{
+	padding-right:15px;
+	padding-left:15px;
+	margin-right:auto;
+	margin-left:auto;
+	background-image:url('http://localhost:8080/templates/alt_1_v2/img/slide-14.jpg');
+}
+ .container_footer:before,.container_footer:after{display:table;content:" "}
+ .container_footer:after{clear:both}
+ .container_footer:before,.container_footer:after{display:table;content:" "}
+ .container_footer:after{clear:both}
+
+
+ .row_footer{
+	margin-right:-15px;
+	margin-left:-15px;
+	background-image:url('http://localhost:8080/kkpnew/tempaltes/alt_1_v2/img/slide-14.jpg');
+}
+ .row_footer:before,.row_footer:after{display:table;content:" "}
+ .row_footer:after{clear:both}
+ .row_footer:before,.row_footer:after{display:table;content:" "}
+ .row_footer:after{clear:both}

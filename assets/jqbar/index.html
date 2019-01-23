@@ -1,0 +1,120 @@
+<html>
+<head>
+    <title>jQuery Animated Bar Plugin</title>
+    <link href="css/demo.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/jqbar.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="sixteen columns">
+            <div class="row">
+                <h1>
+                    Horizontal Bars</h1>
+            </div>
+        </div>
+        <div id="skillset" class="sixteen columns ">
+            <div class="five columns">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id tempor enim.
+                    Aenean urna urna, sagittis eu consequat a, adipiscing at libero. Integer vitae tellus
+                    ante. Donec nunc nisl, accumsan eget dapibus sed, dignissim id libero. Fusce varius
+                    tortor vitae libero feugiat adipiscing. Quisque magna nisi, laoreet molestie posuere
+                    at, laoreet non lectus. Nam vulputate sapien ut sapien consequat eleifend. Pellentesque
+                    at mattis ipsum.
+                </p>
+            </div>
+            <div class="eight columns">
+                <div class="bars MT30">
+                    <div id="bar-1">
+                    </div>
+                    <div id="bar-2">
+                    </div>
+                    <div id="bar-3">
+                    </div>
+                    <div id="bar-4">
+                    </div>
+                    <div id="bar-5">
+                    </div>
+                    <div id="bar-6">
+                    </div>
+                </div>
+            </div>
+            <div class="two columns">
+            </div>
+            <div class="clearfix">
+            </div>
+        </div>
+        <div class="row">
+        </div>
+        <div class="row clear">
+        </div>
+        <div class="sixteen columns">
+            <div class="row">
+                <h1>
+                    Vertical Bars</h1>
+            </div>
+        </div>
+        <div class="sixteen columns ">
+            <div class="five columns align-right">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id tempor enim.
+                    Aenean urna urna, sagittis eu consequat a, adipiscing at libero. Integer vitae tellus
+                    ante. Donec nunc nisl, accumsan eget dapibus sed, dignissim id libero. Fusce varius
+                    tortor vitae libero feugiat adipiscing. Quisque magna nisi, laoreet molestie posuere
+                    at, laoreet non lectus. Nam vulputate sapien ut sapien consequat eleifend. Pellentesque
+                    at mattis ipsum.
+                </p>
+            </div>
+            <div class="nine columns">
+                <div class="bars MT30">
+                    <div id="bar-7">
+                    </div>
+                    <div id="bar-8">
+                    </div>
+                    <div id="bar-9">
+                    </div>
+                    <div id="bar-10">
+                    </div>
+                    <div id="bar-11">
+                    </div>
+                    <div id="bar-12">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/jqbar.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            $('#bar-1').jqbar({ label: 'ASP.NET', value: 99, barColor: '#D64747' });
+
+            $('#bar-2').jqbar({ label: 'C#', value: 99, barColor: '#FF681F' });
+
+            $('#bar-3').jqbar({ label: 'Javascript', value: 90, barColor: '#ea805c' });
+
+            $('#bar-4').jqbar({ label: 'HTML5', value: 50, barColor: '#88bbc8' });
+
+            $('#bar-5').jqbar({ label: 'CSS3', value: 60, barColor: '#939393' });
+
+            $('#bar-6').jqbar({ label: 'jQuery', value: 70, barColor: '#3a89c9' });
+
+
+            $('#bar-7').jqbar({ label: 'Wal', value: 90, barColor: '#D64747', orientation: 'v' });
+
+            $('#bar-8').jqbar({ label: 'Ohi', barColor: '#FF681F', value: 70, orientation: 'v' });
+
+            $('#bar-9').jqbar({ label: 'Song', barColor: '#ea805c', value: 50, orientation: 'v' });
+
+            $('#bar-10').jqbar({ label: 'Pisho', barColor: '#88bbc8', value: 90, orientation: 'v' });
+
+            $('#bar-11').jqbar({ label: 'Mara', barColor: '#939393', value: 70, orientation: 'v' });
+
+            $('#bar-12').jqbar({ label: 'Dagha', barColor: '#3a89c9', value: 50, orientation: 'v' });
+
+        });
+    </script>
+<p><a href="http://www.jqueryscript.net/"><strong>Free jQuery Plugins, HTML5 and CSS3 Scripts</strong></a> - Providing tons of <em>Jquery Plugins</em>,<em>Html5 and CSS3 Scripts</em> for web developers to preview and download. By using these resources, you can create amazing effects with fancy animations of content elements like text, images and so on.</p></body>
+</html>

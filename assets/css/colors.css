@@ -1,0 +1,149 @@
+	.dmsearch.dmsearch-open .searchicon,
+	.shop_item .icon-view,
+	.shop_item .icon-link,
+	.section-colorizedbg,
+	h3.widget-title span.title-text,
+	.about_widget .social span,
+	.social span,
+	.site-header .social span,
+	.pricing-table > .price .name,
+	.ls01,
+	.dm_featured_box_icon,
+	.miniicon span,
+	.pagination > li > a:hover,
+	.topbar.whitebg .searchicon:before,
+	.bs-glyphicons li:hover,
+	.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus,
+	.pagination > li > span:hover,
+	.pagination > li > a:focus,
+	.pagination > li > span:focus,
+	.progress-bar,
+	.blog-wrap div.post-date,
+	.contact_icons,
+	.desc span.text a:hover, .desc span.title a:hover,
+	.tagcloud a,
+	.widget-title hr,
+	.hovicon.effect-1.sub-a:hover,
+	.hovicon.effect-1.sub-a:hover i,
+	.hovicon.effect-1,
+	.hovicon.effect-1.sub-a:hover,
+	.back-to-top,
+	.btn-primary,
+	#owl-blog .read-more,
+	#owl-blog .views,
+	#owl-blog .post-type,
+	#timeline .read-more,
+	#timeline .views,
+	#timeline .post-type,
+	.flexslider .desc span.title,
+	.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus,
+	mark,
+	.topbar {
+	  background: #00a4db;
+	  color: #ffffff;
+	  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	  background-image: -webkit-gradient(linear, left 0%, left 100%, from(#00a4db), to(#007acc));
+	  background-image: -webkit-linear-gradient(top, #00a4db, 0%, #007acc, 100%);
+	  background-image: -moz-linear-gradient(top, #00a4db 0%, #007acc 100%);
+	  background-image: linear-gradient(to bottom, #00a4db 0%, #007acc 100%);
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff00a4db', endColorstr='#ff007acc', GradientType=0);
+	  border-color: #007acc #007acc #004c80;
+	  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	  *background-color: #00a4db;
+	  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
+	  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+	  border-color: #007acc;
+	}
+	
+	.jetmenu i,
+	.jetmenu ul li .indicator,
+	.blue > li:hover > a, .jetmenu .indicator:hover,
+	.searchicon,
+	.widget-title h3 span,
+	.panel-title > a i,
+	.rotate,
+	.check li:before,
+	#owl-blog .read-more,
+	#owl-blog .post-type,
+	.nav-tabs i,
+	.best-rating i,
+	.price > .amount,
+	.categories li a:hover,
+	.recent_posts a,
+	.price-new,
+	.required,
+	.shop-right .amount,
+	.desc span.text a,
+	a {
+		color:#007acc;
+	}
+	.servicetitle hr,
+	.services_lists hr,
+	::-moz-selection  {
+		background:#007acc;
+	}
+	::selection {
+		background:#007acc;
+	}
+	
+	.post-wrapper-top h2,
+	.form-control:focus,
+	.blue > li:hover > a, .blue > li.active > a {
+		border-color:#007acc;
+	}
+	.b-link-flow .b-wrapper, .b-link-flow .b-top-line,
+	.b-link-stroke .b-top-line,
+	.b-link-stroke .b-bottom-line,
+	.b-link-twist .b-top-line,
+	.b-link-twist .b-bottom-line,
+	.b-link-twist:hover .b-top-line b, .b-link-twist:hover .b-bottom-line b,
+	.b-link-flip,
+	.b-link-flip .b-top-line,
+	.b-link-flip .b-bottom-line,
+	.lt-ie10 .b-link-flip:hover .b-bottom-line b,
+	.b-link-flip:hover .b-top-line b,
+	.b-link-box .b-top-line,
+	.b-link-box .b-bottom-line,
+	.b-link-stripe .b-line,
+	.b-link-apart-horisontal .b-top-line, .b-link-apart-horisontal .b-top-line-up,
+	.b-link-apart-horisontal .b-bottom-line, .b-link-apart-horisontal .b-bottom-line-up,
+	.b-link-apart-vertical .b-bottom-line, .b-link-apart-vertical .b-bottom-line-up,
+	.b-link-apart-vertical .b-top-line, .b-link-apart-vertical .b-top-line-up,
+	.b-link-diagonal .b-line,
+	.b-link-fade .b-wrapper, .b-link-fade .b-top-line,
+	.tp-rightarrow.default,
+	.tp-leftarrow.default,
+	.flex-direction-nav a,
+	.magnifier {
+		background-color:rgba(0,122,204, 0.6) !important;
+	}
+
+	.btn-primary:hover,
+	.btn-primary:focus,
+	.btn-primary:active,
+	.btn-primary.active,
+	.btn-primary.disabled,
+	.btn-primary[disabled] {
+	  color: #ffffff;
+	  background-color: #007acc;
+	  *background-color: #006bb3;
+	}
+	.btn-primary:active,
+	.btn-primary.active {
+	  background-color: #005b99 \9;
+	}
+
+	.nav-tabs > li.active > a, 
+	.nav-tabs > li.active > a:hover, 
+	.nav-tabs > li.active > a:focus {
+		border-top-color:#007acc !important;
+	}
+	
+	.hovicon.effect-1:after {
+		 box-shadow: 0 0 0 4px #007acc;
+	}
+
+	.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
+		background-color:#007acc;
+	}

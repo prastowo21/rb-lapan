@@ -1,0 +1,79 @@
+
+/*horizontal*/
+
+.jqbar.horizontal span
+{
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 14px;
+    
+}
+.jqbar.horizontal .bar-percent
+{
+    font-size: 13px;
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+
+#bar-1
+{
+    top: 20px;
+}
+#bar-2
+{
+    top: 30px;
+}
+#bar-3
+{
+    top: 40px;
+}
+
+#bar-4
+{
+    top: 50px;
+}
+#bar-5
+{
+    top: 60px;
+}
+#bar-6
+{
+    top: 70px;
+}
+
+#bar-7
+{
+    top: 50px;
+    left: 100px;
+}
+#bar-8
+{
+    top: 50px;
+    left: 120px;
+}
+#bar-9
+{
+    top: 50px;
+    left: 140px;
+}
+#bar-10
+{
+    top: 50px;
+    left: 160px;
+}
+#bar-11
+{
+    top: 50px;
+    left: 180px;
+}
+#bar-12
+{
+    top: 50px;
+    left: 200px;
+}
+.jqbar.horizontal .bar-label
+{
+    text-align: left;
+    width: 40%;
+}

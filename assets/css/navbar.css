@@ -1,0 +1,26 @@
+ /*navbar */
+.navbar-default{
+ border: none;
+ background-color: #1a243f;
+}
+.navbar-default .navbar-nav > li > a{
+ color: white;
+}
+.navbar-default .navbar-nav > li > a:hover{
+ color: white;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+ color: white;
+ background-color: #18bc9c;
+}
+.login{
+ background-color: transparent;
+ color: white;
+}
+.login:hover{
+ color: white;
+ background-color: #212437;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+ background-color: transparent;
+} 
